@@ -65,6 +65,7 @@ public class MainActivity extends ActionBarActivity implements Animation.Animati
                         lp.height = m_UIDefine.getLayoutHeight(20);
                         dialogWindow.setBackgroundDrawable(new BitmapDrawable());
                         dialogWindow.setAttributes(lp);
+
                         //                        Intent intent = new Intent();
                         //                        intent.setClass(MainActivity.this, PhotoPager.class);
                         //                        startActivity(intent);

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<drawable name="hanwe_transparent">#00000000</drawable>
+	<drawable name="hanwe_red">#FF0000</drawable>
+	<drawable name="hanwe_gainsboro">#dcdcdc</drawable>
+	<drawable name="hanwe_block">#000000</drawable>
+	<drawable name="hanwe_white">#FFFFFF</drawable>
+	<drawable name="hanwe_white_no_transparent">#FFFFFFFF</drawable>
+	<drawable name="hanwe_firebrick">#b22222</drawable>
+	<drawable name="hanwe_fdeepskyblue">#00bfff</drawable>
+	<drawable name="hanwe_dimgray">#696969</drawable>
+	<drawable name="hanwe_darkgreen">#006400</drawable>
+	<drawable name="hanwe_darkgreen2">#92C7C3</drawable>
+	<drawable name="hanwe_darkgray">#a9a9a9</drawable>
+	<drawable name="hanwe_Light_darkgray">#FFCBCBCB</drawable>
+	<drawable name="hanwe_gray">#707070</drawable>
+	<drawable name="hanwe_lightgrey">#eeeeee</drawable>
+	<drawable name="hanwe_lightcoral">#f08080</drawable>
+	<drawable name="hanwe_darkorange">#ff8c00</drawable>
+	<drawable name="hanwe_orange_text">#FFE9AC80</drawable>
+	<drawable name="hanwe_darkorange_dialog_btn">#f6b37f</drawable>
+	<drawable name="hanwe_teal">#008080</drawable>
+	<drawable name="hanwe_dialog_btn">#259088</drawable>
+	<drawable name="hanwe_mediumaquamarine">#FF7DB5AF</drawable>
+</resources>

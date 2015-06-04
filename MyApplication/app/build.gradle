@@ -2,10 +2,10 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 21
-    buildToolsVersion "21.1.2"
+    buildToolsVersion '21.0.0'
 
     defaultConfig {
-        applicationId "album.chid.work.team.com.album"
+        applicationId "com.album.chid.work.team"
         minSdkVersion 15
         targetSdkVersion 21
         versionCode 1
@@ -21,7 +21,9 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile 'com.android.support:appcompat-v7:21.0.3'
     compile files('libs/core-2.2.jar')
     compile files('libs/zbar.jar')
+    compile files('libs/zxing_core.jar')
+    compile 'com.android.support:support-v4:21.0.3'
+    compile 'com.android.support:appcompat-v7:21.0.3'
 }
